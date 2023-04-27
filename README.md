@@ -44,6 +44,13 @@ This project collects the outputs from conversations in the Slack [#KPIs room](h
 * Avg price per hour of compute
 * Unit cost (spend divided by a business metric)
 
+## Specific KPIs
+
+### Object storage (S3, Google Cloud Storage, Azure Blob Storage)
+
+* Versioning cost expenses
+* Incomplete uploads cost expenses
+* % of buckets with lifecycle
 
 ## Planned Projects
 
